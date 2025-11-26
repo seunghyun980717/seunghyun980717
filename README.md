@@ -5,7 +5,7 @@
   
 </div>
 <div>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
 </div>
 <div>
   <!--Body-->
