@@ -12,7 +12,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Seunghyun Jeong from South Korea.<br/>
-  #### :fire: I aim to become a Back-end Engineer.<br/>
+  #### :fire: I aim to become a Front-end Engineer.<br/>
   #### :mortar_board: Bachelor of Mechanical Engineering, Ulsan University
   <br/>
   <br/>
@@ -37,8 +37,6 @@
   <br/>
   
   ### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
   <!--Django-->
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!--React-->
