@@ -4,9 +4,9 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Happy%20to%20see%20you%20%F0%9F%A4%97)
   
 </div>
-<div>
+
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
-</div>
+
 <div>
   <!--Body-->
   
