@@ -6,6 +6,8 @@
 </div>
 <div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shjung2506)](https://solved.ac/shjung2506/)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 </div>
 <div>
   <!--Body-->
